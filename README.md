@@ -20,3 +20,5 @@ Hash HMAC256(<Passar uma secret key>)
 ```
 JWT.require
 ```
+
+## 3º Criando o filtro de segurançar - SecurityFilter
