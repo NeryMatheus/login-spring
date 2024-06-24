@@ -25,3 +25,7 @@ JWT.require
 
 ## 4º Criando o Serviço de User Custom - CustomUserDetailService
 
+## 5º Criando o classe de configuração de segurança - ConfigSecutiry
+### Importar:
+1. @Configuration
+2. @EnableWebSecurity
