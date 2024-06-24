@@ -22,3 +22,6 @@ JWT.require
 ```
 
 ## 3º Criando o filtro de segurançar - SecurityFilter
+
+## 4º Criando o Serviço de User Custom - CustomUserDetailService
+
